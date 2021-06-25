@@ -123,11 +123,11 @@ body {   /*inicial com body*/
 }
 
 .app-download:nth-child(1){
-    background-image: url('./img/apple-button.png');  /*colocando as imagens */
+    background-image: url('img/apple-button.png');  /*colocando as imagens */
 }
 
 .app-download:nth-child(2){
-    background-image: url('./img/googleplay-button.png');
+    background-image: url('img/googleplay-button.png');
 }
 
 /*media queries  deixando responsivo de acordo com tamanho da tela*/
